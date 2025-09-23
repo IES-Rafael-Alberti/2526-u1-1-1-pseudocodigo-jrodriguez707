@@ -1,0 +1,5 @@
+Iinicio
+	Escribe "Escribe tu nombre de usuario"
+	Leer nombre
+	Escribe "Hola, (nombre)"	
+Fin 
