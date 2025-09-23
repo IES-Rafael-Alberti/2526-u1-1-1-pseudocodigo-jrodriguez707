@@ -1,0 +1,8 @@
+Inicio
+        Escribir "Pon un número"
+        Lee X
+        Si (x%2=0)
+                Escribe "El número es par"
+        Sino
+                Escribe "El número es impar"
+Fin

@@ -1,0 +1,13 @@
+Inicio
+        Escribir "Introduce un número:"
+        Lee x
+        Si x <= 1
+                Escribe "El número no es primo"
+        Sino
+                Para i <- 2 hasta (n/2)+1 hacer
+                        Si (x % i)=0 Entonces
+                                Escribir(x, "no es primo")
+                        FinSi
+                FinPara
+        Escribir(x, "es primo")
+Fin

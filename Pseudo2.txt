@@ -1,0 +1,6 @@
+Inicio
+        Escribe "Pon un número:"
+        Leer x
+        Para i en (1 hasta 10) hacer
+                Escribir x,"x",i,"=", i*x;
+Fin
