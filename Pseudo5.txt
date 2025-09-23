@@ -1,0 +1,9 @@
+Inicio
+	Escribir "¿Cuantas horas has trabajado?"
+	Leer horas
+	
+	Escribir "Pon cuanto te pagan por hora"
+	Leer coste_por_hora
+
+	Escribir "Importe total:", horas + coste_por_horas
+Fin
