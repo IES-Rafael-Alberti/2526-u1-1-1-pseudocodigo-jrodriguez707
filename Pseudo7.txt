@@ -1,1 +1,8 @@
+Inicio
+        Escribir "Introduzca el precio sin IVA"
+        Leer precio_sin_iva
+        precio_con_iva <- precio_sin_iva * ( 21 / 100 )
+        Escribir "El precio con IVA sera de:", precio_con_iva
+Fin
+
 
