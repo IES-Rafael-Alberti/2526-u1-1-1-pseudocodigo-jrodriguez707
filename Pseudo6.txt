@@ -1,0 +1,5 @@
+Inicio
+	Escribe "Indica la temperatura que hace en grados Celcius"
+	Lee gradosc
+	Escribe "La temperatura en Fahrenheit es (gradosc * 9 / 5 ) + 32"
+Fin 
